@@ -1,0 +1,14 @@
+{
+    "name": "lai1927/composer",
+    "description": "text project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Yonglai Zhao",
+            "email": "503865526@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
